@@ -1,0 +1,6 @@
+# format:  command-name   minutes
+weekly-backup             4
+stream-music              3
+send-posters              34
+alarm-cook                3
+zoom-class                7

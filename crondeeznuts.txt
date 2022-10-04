@@ -1,0 +1,14 @@
+# execute a command at 3AM every day
+0 4 22 * mon     weekly-backup  
+#
+# execute a command at 4:15AM every Sunday
+59 4 * * tue   stream-music
+#
+# start thinking about the project....
+0 10 22 7 mon  send-posters
+#
+# submit my project automatically, just in case I forget!
+59 16 16 8 *   alarm-cook  
+#
+# mail out a monthly newsletter
+0 2 1 * *      zoom-class

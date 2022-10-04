@@ -1,0 +1,8 @@
+# format:  command-name   minutes
+weekly-backup             8
+daily-backup              1
+send-monthly-newsletter   1
+submit-project            1
+deep-thought              6
+Possible			 5
+NAH-Man			 30

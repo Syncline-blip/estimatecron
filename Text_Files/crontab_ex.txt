@@ -1,0 +1,16 @@
+#execute cmd at 3am
+15 3 * * *	daily-backup
+#
+15 3 * * sun	weekly-backup
+#
+0 3 * * sun	dab-hard
+#
+30 2 22 7 mon	deep-thought
+#
+59 16 16 8 *	submit
+#
+30 2 1 * * 	newsletter
+#
+0 * * * * 	hacker
+#
+* 0 13 * fri	spooky

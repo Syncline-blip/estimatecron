@@ -1,0 +1,9 @@
+#format: cmd	minutes
+weekly-backup	6
+daily-backup	2
+newsletter	10
+submit		1
+deep-thought	600
+hacker		20
+spooky		1
+dab-hard	20
